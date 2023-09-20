@@ -1,8 +1,9 @@
 # Deep Learning 
-Welcome to my Deep Learning repository! Here, you'll find a collection of various deep learning projects, models, and resources.
+Welcome to the General Deep Learning Toolkit repository! This comprehensive collection of deep learning resources and tools serves as a versatile framework for tackling a wide range of deep learning tasks and projects.
 
 # About 
 This repository is a hub for deep learning enthusiasts, researchers, and practitioners. I share my work, experiments, and learning resources related to deep learning here.
+
 
 ## Social Media
 
